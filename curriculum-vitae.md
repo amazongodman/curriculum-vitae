@@ -9,6 +9,7 @@ Mail |
 Qiita | [@Ringa_hyj](https://qiita.com/Ringa_hyj)
 Web Site | [大島飯店](https://sit-jhonny.hatenablog.com/)
 Twitter | [@Ringa_hyj](https://twitter.com/Ringa_hyj)
+Rpubs | [Ringa](http://rpubs.com/Ringa)
 
 ## スキル
 - Python3
