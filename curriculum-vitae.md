@@ -63,11 +63,6 @@ Slides | [SD](https://speakerdeck.com/ringa_hyj)
 
 
 
-## 職務内容要約
-
-
-モデル化
-
 
 
 ## 学習進度
