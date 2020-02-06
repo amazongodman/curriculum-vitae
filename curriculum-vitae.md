@@ -10,11 +10,12 @@ Qiita | [@Ringa_hyj](https://qiita.com/Ringa_hyj)
 Web Site | [大島飯店](https://sit-jhonny.hatenablog.com/)
 Twitter | [@Ringa_hyj](https://twitter.com/Ringa_hyj)
 Rpubs | [Ringa](http://rpubs.com/Ringa)
+Slides | [SD](https://speakerdeck.com/ringa_hyj)
 
 ## 使用技術
 - Python3, jupyter notebook(lab)  
 - R (Rstudio)  
-- SQL DB2 AS400 SQLserver  
+- SQL DB2 AS400
 - VScode  
 
 勉強中
@@ -66,10 +67,6 @@ Rpubs | [Ringa](http://rpubs.com/Ringa)
 
 
 モデル化
-
-
-
-
 
 
 
@@ -162,15 +159,15 @@ R言語上級ハンドブック
 データサイエンティスト養成読本  
 データサイエンティスト養成読本 機械学習入門編  
 FACTFULNESS(ファクトフルネス)  
-働くひとのためのキャリア・デザイン  
+  
 統計的工程管理―製造のばらつきへの新たなる挑戦  
 
-転職の思考法   
+  
 つくりながら学ぶ! 深層強化学習 ~PyTorchによる実践プログラミング~  
 品質工学概論  
 オープン・サービス・イノベーション  
 Tableauによる最強・最速のデータ可視化テクニック ～データ加工からダッシュボード作成まで～  
-マーケティングのすゝめ  
+ 
 データ分析できない社員はいらない  
 理工・システム系の線形代数―基礎から応用へ  
 例題で学ぶ微分積分学  
@@ -178,7 +175,9 @@ Tableauによる最強・最速のデータ可視化テクニック ～データ
 伝わるデータビジュアル術  
 Rとshinyで作るwebアプリケーション  
 
-未来IT図解　これからのデータサイエンスビジネス
+未来IT図解　これからのデータサイエンスビジネス  
+手を動かしながら学ぶ　ビジネスに活かすデータマイニング  
+
 
 Udemy Deep Learning Specialization Master Deep Learning, and Break into AI  
 Udemy Machine Learning  
@@ -193,6 +192,16 @@ gacco 統計学1
 gacco 統計学2  
 gacco 統計学3  
 
+codexa Numpy 入門  
+codexa Pandas 入門  
+codexa Matplotlib 入門  
+codexa 線形代数 入門  
+codexa 統計入門（前編）  
+codexa 統計入門（後編）  
+codexa 線形回帰 入門  
+
+
+
 cousera Deep Learning Specialization
 cousera Machine learning
 
@@ -203,9 +212,10 @@ cousera Machine learning
 
 ```
 
+転職の思考法  
 人生は、運よりも実力よりも「勘違いさせる力」で決まっている  
 実験思考　世の中、すべては実験  
 雇用・利子および貨幣の一般理論  
-
-
+働くひとのためのキャリア・デザイン  
+マーケティングのすゝめ  
 ```
