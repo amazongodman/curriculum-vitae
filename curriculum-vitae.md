@@ -11,6 +11,8 @@ Web Site | [大島飯店](https://sit-jhonny.hatenablog.com/)
 Twitter | [@Ringa_hyj](https://twitter.com/Ringa_hyj)
 Rpubs | [Ringa](http://rpubs.com/Ringa)
 Slides | [SD](https://speakerdeck.com/ringa_hyj)
+Signate | [Signate](https://signate.jp/profile)
+kaggle | [kaggle](https://www.kaggle.com/hiroshihiroshi)
 
 ## 使用技術
 - Python3, jupyter notebook(lab)  
