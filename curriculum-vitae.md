@@ -29,6 +29,7 @@ connpass | [connpass](https://connpass.com/user/mf16069yoshimura/)
 - Linax
 - Docker  
 - kubanetess  
+- MATLAB/Simulink  
 
 ## 職務経歴
 ### 2019/07 - 現在 株式会社Y 統計分析・機械学習エンジニア
@@ -41,6 +42,12 @@ connpass | [connpass](https://connpass.com/user/mf16069yoshimura/)
 
 職務内容：  
 ・ERPデータを使った業務改善(在庫削減・生産最適化・需要予測・故障分析・検査自動化)のための分析とwebアプリの作成  
+ - 服飾の流行予測(生産量最適)  
+ - 生産在庫の統計モデル化と生産量最適化  
+ - 機械部品の材料材質と修理コストの関係分析  
+ - 製品の画像検査(GAN)による工程自動化  
+ - 工場の滞留・生産状況の見える化(webアプリ・サーバレス)  
+   
 ・外部ベンダとの不良品検知・需要予測システムの開発  
 ・社内データをつかったAI(機械学習・深層学習)モデルの作成  
 ・工場自動化・合理化に関する活動  
@@ -206,7 +213,7 @@ codexa 線形回帰 入門
 
 cousera Deep Learning Specialization
 cousera Machine learning
-
+cousera Bayesian Statistics: From Concept to Data Analysis
 ```
 
 
