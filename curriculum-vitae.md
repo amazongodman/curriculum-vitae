@@ -214,6 +214,7 @@ cousera Advanced Machine Learning
 cousera Deep Learning Specialization
 cousera Machine learning
 cousera Bayesian Statistics: From Concept to Data Analysis
+cousera IBM AI Engineering プロフェッショナル認定
 
 ```
 
