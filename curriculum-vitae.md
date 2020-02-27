@@ -210,10 +210,11 @@ codexa 統計入門（後編）
 codexa 線形回帰 入門  
 
 
-
+cousera Advanced Machine Learning
 cousera Deep Learning Specialization
 cousera Machine learning
 cousera Bayesian Statistics: From Concept to Data Analysis
+
 ```
 
 
