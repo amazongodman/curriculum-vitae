@@ -194,8 +194,14 @@ Udemy はじめての SQL ・データ分析入門 -データベースのデー�
 Udemy みんなのAI講座 ゼロからPythonで学ぶ人工知能と機械学習  
 Udemy 【PythonとStanで学ぶ】仕組みが分かるベイズ統計学入門  
 
+Udemy 【キカガク流】人工知能・機械学習 脱ブラックボックス講座 - 中級編 -  
+Udemy 【キカガク流】人工知能・機械学習 脱ブラックボックス講座 - 初級編 -  
+Udemy Docker + Kubernetes で構築する Webアプリケーション 実践講座  
+Udemy ベイズ推定とグラフィカルモデル：コンピュータビジョン基礎1  
+Udemy 画像処理と3次元幾何：コンピュータビジョン基礎2  
+
 fisdom 線形代数  
-fisdom 基礎統計学
+fisdom 基礎統計学  
 
 gacco 統計学1  
 gacco 統計学2  
@@ -210,11 +216,29 @@ codexa 統計入門（後編）
 codexa 線形回帰 入門  
 
 
-cousera Advanced Machine Learning
-cousera Deep Learning Specialization
-cousera Machine learning
-cousera Bayesian Statistics: From Concept to Data Analysis
-cousera IBM AI Engineering プロフェッショナル認定
+cousera Advanced Machine Learning(National Research University Higher School of Economics)  
+    course1 Introduction to Deep Learning  
+    course2 How to Win a Data Science Competition: Learn from Top Kagglers  
+    course3 Bayesian Methods for Machine Learning  
+    course4 Practical Reinforcement Learning  
+    course5 Deep Learning in Computer Vision  
+    course6 Natural Language Processing  
+    course7 Addressing Large Hadron Collider Challenges by Machine Learning  
+
+cousera IBM AI Engineering プロフェッショナル認定  
+
+cousera Machine learning  
+
+cousera Deep Learning Specialization  
+    course1 Neural Networks and Deep Learning  
+    course2 Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization  
+    course3 Structuring Machine Learning Projects  
+    course4 Convolutional Neural Networks  
+    course5 Sequence Models  
+
+cousera Bayesian Statistics: From Concept to Data Analysis  
+
+cousera Bayesian Statistics: Techniques and Models  
 
 ```
 
@@ -222,7 +246,6 @@ cousera IBM AI Engineering プロフェッショナル認定
 ### その他記録用 
 
 ```
-
 転職の思考法  
 人生は、運よりも実力よりも「勘違いさせる力」で決まっている  
 実験思考　世の中、すべては実験  
