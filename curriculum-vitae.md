@@ -3,7 +3,7 @@
 
 key | value
 ------------- | -------------
-Name | <ruby><rb>苗字 名前<rb><rt>みょうじ なまえく</rt></ruby>
+Name | <ruby><rb>苗字 名前<rb><rt>みょうじ なまえ</rt></ruby>
 Phone | 
 Mail | 
 Qiita | [@Ringa_hyj](https://qiita.com/Ringa_hyj)
@@ -26,10 +26,16 @@ connpass | [connpass](https://connpass.com/user/mf16069yoshimura/)
 勉強中
 - ruby  
 - C#  
-- Linax
+- Linax  
 - Docker  
 - kubanetess  
 - MATLAB/Simulink  
+- swift  
+- source tree  
+- git  
+
+## 取得資格  
+- 2020年3月 JDLA deep learning generalist 検定 (G検定)  
 
 ## 職務経歴
 ### 2019/07 - 現在 株式会社Y 統計分析・機械学習エンジニア
