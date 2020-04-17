@@ -90,16 +90,13 @@ connpass | [connpass](https://connpass.com/user/mf16069yoshimura/)
 
 ```
 
-徹底攻略 情報セキュリティマネジメント教科書 令和2年度  
-深層学習教科書 ディープラーニング G検定(ジェネラリスト) 公式テキスト   
-AI白書 2019   
-人工知能は人間を超えるか ディープラーニングの先にあるもの  
+
 かんたん合格 基本情報技術者教科書 令和2年度   
 メタ・アナリシス入門―エビデンスの統合をめざす統計手法  
 ITエンジニアのための機械学習理論入門  
 パターン認識のためのサポートベクトルマシン入門  
 Pythonによるスクレイピング&機械学習 開発テクニック  
-仕事の説明書  
+
 プログラミングのための確率統計  
 プログラミングのための線形代数  
 最強のデータ分析組織 なぜ大阪ガスは成功したのか  
@@ -108,23 +105,23 @@ Pythonによるスクレイピング&機械学習 開発テクニック
 統計学入門 (基礎統計学Ⅰ)  
 本物のデータ分析力が身に付く本  
 Rによるデータサイエンス データ解析の基礎から最新手法まで  
-入社1年目の教科書  
+
 日本の納税者  
 ビジネスマンのための「行動観察」入門  
 Harvard Business Review (ハーバード・ビジネス・レビュー) 2014年 08月号  
 会社を変える分析の力  
-「課長」から始める 社内政治の教科書  
+
 ガウス過程と機械学習  
 サンプルサイズの決め方  
-すぐに使える英会話ミニフレーズ2500  
+
 Python実践データ分析100本ノック  
 データ解析のための統計モデリング入門  
 Kaggleで勝つデータ分析の技術  
 改訂版 日本統計学会公式認定 統計検定2級対応 統計学基礎  
-時系列分析と状態空間モデルの基礎: RとStanで学ぶ理論と実装  
+
 経済・ファイナンスデータの計量時系列分析 (統計ライブラリー)  
 Rによるやさしい統計学  
-ビジョナリー・カンパニー 2  
+
 ビッグデータ分析・活用のためのSQLレシピ  
 戦略的データサイエンス入門 ―ビジネスに活かすコンセプトとテクニック  
 これならわかる！ベイズ統計学  
@@ -151,6 +148,7 @@ StanとRでベイズ統計モデリング　Wonderful R 2
 
 ```
 
+時系列分析と状態空間モデルの基礎: RとStanで学ぶ理論と実装  
 ゼロから作るDeep Learning ―Pythonで学ぶディープラーニングの理論と実装  
 アンケートの作り方・活かし方  
 アンケート調査の進め方 〈第2版〉  
@@ -173,11 +171,10 @@ R言語上級ハンドブック
 改訂2版 データサイエンティスト養成読本  
 データサイエンティスト養成読本  
 データサイエンティスト養成読本 機械学習入門編  
-FACTFULNESS(ファクトフルネス)  
-  
+
+統計学のための数学入門30講  
 統計的工程管理―製造のばらつきへの新たなる挑戦  
 
-  
 つくりながら学ぶ! 深層強化学習 ~PyTorchによる実践プログラミング~  
 品質工学概論  
 オープン・サービス・イノベーション  
@@ -192,6 +189,11 @@ Rとshinyで作るwebアプリケーション
 
 未来IT図解　これからのデータサイエンスビジネス  
 手を動かしながら学ぶ　ビジネスに活かすデータマイニング  
+
+徹底攻略 情報セキュリティマネジメント教科書 令和2年度  
+深層学習教科書 ディープラーニング G検定(ジェネラリスト) 公式テキスト   
+AI白書 2019   
+人工知能は人間を超えるか ディープラーニングの先にあるもの  
 
 
 Udemy Deep Learning Specialization Master Deep Learning, and Break into AI  
@@ -232,6 +234,7 @@ cousera Advanced Machine Learning(National Research University Higher School of 
     course7 Addressing Large Hadron Collider Challenges by Machine Learning  
 
 cousera IBM AI Engineering プロフェッショナル認定  
+cousera IBMデータサイエンスプロフェッショナル認定
 
 cousera Machine learning  
 
@@ -246,12 +249,36 @@ cousera Bayesian Statistics: From Concept to Data Analysis
 
 cousera Bayesian Statistics: Techniques and Models  
 
+
+Basic Modeling for Discrete Optimization
+Advanced Modeling for Discrete Optimization
+Advanced Linear Models for Data Science 1: Least Squares
+Advanced Linear Models for Data Science 2: Statistical Linear Models
+
+
+
+メディカルAI専門コース
+https://japan-medical-ai.github.io/medical-ai-course-materials/index.html
+
+Stanford Machine Learning
+http://holehouse.org/mlclass/index.html
+
+Deep Learning基礎講座演習コンテンツ 公開ページ
+https://weblab.t.u-tokyo.ac.jp/deep-learning%E5%9F%BA%E7%A4%8E%E8%AC%9B%E5%BA%A7%E6%BC%94%E7%BF%92%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84-%E5%85%AC%E9%96%8B%E3%83%9A%E3%83%BC%E3%82%B8/
+
+youtube easyarithmetican / atelier aterui 微積分2
+
 ```
 
 
 ### その他記録用 
 
 ```
+仕事の説明書  
+入社1年目の教科書  
+「課長」から始める 社内政治の教科書  
+FACTFULNESS(ファクトフルネス)  
+ビジョナリー・カンパニー 2   
 転職の思考法  
 人生は、運よりも実力よりも「勘違いさせる力」で決まっている  
 実験思考　世の中、すべては実験  
