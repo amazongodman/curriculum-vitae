@@ -1,4 +1,4 @@
-# 履歴書 2020-01-15
+# 履歴書 2020-05-16
 ## 自己紹介
 
 key | value
@@ -22,17 +22,19 @@ connpass | [connpass](https://connpass.com/user/mf16069yoshimura/)
 - R (Rstudio)  
 - SQL DB2 AS400
 - VScode  
+- Power BI, Looker, tableau  
+- git  
+- Docker  
 
 勉強中
 - ruby  
 - C#  
 - Linax  
-- Docker  
+
 - kubanetess  
 - MATLAB/Simulink  
-- swift  
-- source tree  
-- git  
+- swift   
+
 
 ## 取得資格  
 - 2020年3月 JDLA deep learning generalist 検定 (G検定)  
@@ -74,10 +76,10 @@ connpass | [connpass](https://connpass.com/user/mf16069yoshimura/)
 ・顧客データを使用した試験的な異常検知  
 ・開発時の実験データ発生から保存までのデータインテグリティ対応  
 
-### 2012/04 - 2018/03 芝浦工業大学
+### 2012/04 - 2018/03 大学修了
 
-学部：生命科学科　生命科学コース  
-修士：理工学研究科　システム理工学専攻  
+学部：生命科学科  
+修士：理工学研究科  
 研究：アルツハイマー型認知症治療薬に向けたビタミンK誘導体の合成研究  
 研究成果：二本の側鎖とその末端にフェニル基を導入した新規ビタミンK誘導体の合成(2016/06) ビタミン90巻4号197  
 
@@ -85,7 +87,7 @@ connpass | [connpass](https://connpass.com/user/mf16069yoshimura/)
 
 
 
-## 学習進度
+## 学習メモ
 ### 学習中
 
 ```
