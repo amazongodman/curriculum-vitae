@@ -1,4 +1,4 @@
-# 履歴書 2020-05-16
+# 履歴書 2020-06-11
 ## 自己紹介
 
 key | value
@@ -34,6 +34,7 @@ connpass | [connpass](https://connpass.com/user/mf16069yoshimura/)
 - kubanetess  
 - MATLAB/Simulink  
 - swift   
+- haskell
 
 
 ## 取得資格  
@@ -53,10 +54,10 @@ connpass | [connpass](https://connpass.com/user/mf16069yoshimura/)
  - アパレル系の流行予測(生産量最適化)  
  - 生産在庫の統計モデル化と生産量最適化  
  - 機械部品の材料材質と修理コストの関係分析  
- - 製品の画像検査と分類(GAN、CNN)による工程自動化  
- - 工場の滞留・生産状況の見える化(webアプリ・サーバレス)  
+ - 製品の画像検査と分類(GAN、CNN)  
+ - 工場の滞留・生産状況の見える化(webアプリ)  
    
-・外部ベンダとの不良品検知・需要予測システムの開発  
+・ベンダとの機械学習システムの開発  
 ・社内データをつかったAI(機械学習・深層学習)モデルの作成  
 ・工場自動化・合理化に関する活動  
 ・機械学習についての社内人材の教育  
@@ -84,9 +85,6 @@ connpass | [connpass](https://connpass.com/user/mf16069yoshimura/)
 研究成果：二本の側鎖とその末端にフェニル基を導入した新規ビタミンK誘導体の合成(2016/06) ビタミン90巻4号197  
 
 
-
-
-
 ## 学習メモ
 ### 学習中
 
@@ -100,16 +98,11 @@ connpass | [connpass](https://connpass.com/user/mf16069yoshimura/)
 岩波データサイエンスvol.5  
 岩波データサイエンスvol.6  
 
-
-
-
 日本の納税者  
-
+社内政治の教科書  
 
 ビジネスマンのための「行動観察」入門  
 Harvard Business Review (ハーバード・ビジネス・レビュー) 2014年 08月号  
-
-
 
 Python実践データ分析100本ノック  
 データ解析のための統計モデリング入門  
