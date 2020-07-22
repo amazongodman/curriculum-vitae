@@ -116,6 +116,7 @@ Rによるデータサイエンス データ解析の基礎から最新手法ま
 サンプルサイズの決め方 
 Rによるやさしい統計学  
 これならわかる！ベイズ統計学  
+
 はじめてのパターン認識  
 パターン認識と機械学習 上  
 パターン認識と機械学習 下  
@@ -131,19 +132,23 @@ StanとRでベイズ統計モデリング　Wonderful R 2
 ITエンジニアのための機械学習理論入門  
 パターン認識のためのサポートベクトルマシン入門  
 Pythonによるスクレイピング&機械学習 開発テクニック  
+
 プログラミングのための確率統計  
 プログラミングのための線形代数  
+
 人文・社会科学の統計学 (基礎統計学)  
 自然科学の統計学 (基礎統計学)  
 統計学入門 (基礎統計学Ⅰ)  
 
-
-
-
 異常検知と変化検知  
-
 データマイニングによる異常検知  
 
+線型代数入門 (基礎数学1)   
+解析入門 Ⅰ(基礎数学2)  
+解析入門 Ⅱ(基礎数学3)  
+数学の基礎―集合・数・位相 (基礎数学14)  
+これなら分かる最適化数学―基礎原理から計算手法まで  
+これなら分かる応用数学教室―最小二乗法からウェーブレットまで  
 
 ```
 
@@ -151,7 +156,7 @@ Pythonによるスクレイピング&機械学習 開発テクニック
 
 ```
 
-- 時系列解析・計量経済学
+- 時系列解析・計量経済学  
 時系列分析と状態空間モデルの基礎: RとStanで学ぶ理論と実装  
 Rで学ぶVAR実証分析  
 ファイナンス機械学習  
@@ -164,7 +169,7 @@ Rによる計量経済分析
 基礎からわかる時系列分析  
 時系列解析: 自己回帰型モデル・状態空間モデル・異常検知  
 
-- アンケート調査・テキストマイニング
+- アンケート調査・テキストマイニング  
 アンケートの作り方・活かし方  
 アンケート調査の進め方 〈第2版〉  
 経済・経営・商学のための実践データ分析―アンケート・購買履歴データをいかす  
@@ -185,7 +190,7 @@ Excelを使ったアンケート調査―Excelによるアンケート集計シ�
 データサイエンティスト養成読本  
 データサイエンティスト養成読本 機械学習入門編  
 
-- ビジネス・分野としてのデータサイエンス本
+- ビジネス・分野としてのデータサイエンス本  
 データ解析の実務プロセス入門   
 世界一やさしい問題解決の授業―自分で考え、行動する力が身につく  
 戦略的データサイエンス入門 ―ビジネスに活かすコンセプトとテクニック  
@@ -201,23 +206,21 @@ Excelを使ったアンケート調査―Excelによるアンケート集計シ�
 データ分析できない社員はいらない  
 手を動かしながら学ぶ　ビジネスに活かすデータマイニング  
 
-- 数学・統計・機械学習(理論)
+- 数学・統計・機械学習(理論)  
 Rによる 統計的学習入門  
 完全独習　統計学入門  
 統計学のための数学入門30講  
 理工・システム系の線形代数―基礎から応用へ  
 例題で学ぶ微分積分学  
-解析学Ⅰ(杉浦)  
-(数学基礎1)線形代数入門  
 イラストで学ぶ 機械学習 最小二乗法による識別モデル学習を中心に  
 ITエンジニアのための機械学習理論入門  
 カーネル多変量解析  
 
-- 分析ソフト、機械学習(コーディング)
+- 分析ソフト、機械学習(コーディング)  
 つくりながら学ぶ! 深層強化学習 ~PyTorchによる実践プログラミング~  
 ゼロから作るDeep Learning ―Pythonで学ぶディープラーニングの理論と実装  
 
-- ITエンジニア・可視化・BI
+- ITエンジニア・可視化・BI  
 エンジニアのための データ可視化 実践 入門 ~D3.jsによるWebの可視化  
 Tableauによる最強・最速のデータ可視化テクニック ～データ加工からダッシュボード作成まで～  
 伝わるデータビジュアル術  
@@ -225,22 +228,24 @@ Rとshinyで作るwebアプリケーション
 リーダブルコード  
 R言語上級ハンドブック  
 スラスラわかるpython  
+データマネジメント知識体系ガイド 第二版  
+SRE サイトリライアビリティエンジニアリング  
 
-- データベース
+- データベース  
 ビッグデータ分析・活用のためのSQLレシピ  
 
-- 品質工学・信頼性工学・生存・寿命
+- 品質工学・信頼性工学・生存・寿命  
 入門 タグチメソッド  
 品質工学概論  
 信頼性データ解析  
 
-- 異常検知・工程管理
+- 異常検知・工程管理  
 統計的工程管理―製造のばらつきへの新たなる挑戦  
 在庫管理のための需要予測入門  
 入門機械学習による異常検知 Rによる実践ガイド  
 pythonと実例で学ぶ機械学習　識別・予測・異常検知  
 
-- 資格関係
+- 資格関係  
 徹底攻略 情報セキュリティマネジメント教科書 令和2年度  
 深層学習教科書 ディープラーニング G検定(ジェネラリスト) 公式テキスト   
 AI白書 2019   
@@ -284,7 +289,7 @@ cousera Advanced Machine Learning(National Research University Higher School of 
     course7 Addressing Large Hadron Collider Challenges by Machine Learning  
 
 cousera IBM AI Engineering プロフェッショナル認定  
-cousera IBMデータサイエンスプロフェッショナル認定
+cousera IBMデータサイエンスプロフェッショナル認定  
 
 cousera Machine learning  
 
@@ -300,21 +305,21 @@ cousera Bayesian Statistics: From Concept to Data Analysis
 cousera Bayesian Statistics: Techniques and Models  
 
 
-Basic Modeling for Discrete Optimization
-Advanced Modeling for Discrete Optimization
-Advanced Linear Models for Data Science 1: Least Squares
-Advanced Linear Models for Data Science 2: Statistical Linear Models
+Basic Modeling for Discrete Optimization  
+Advanced Modeling for Discrete Optimization  
+Advanced Linear Models for Data Science 1: Least Squares  
+Advanced Linear Models for Data Science 2: Statistical Linear Models  
 
 
 
-メディカルAI専門コース
-https://japan-medical-ai.github.io/medical-ai-course-materials/index.html
+メディカルAI専門コース  
+https://japan-medical-ai.github.io/medical-ai-course-materials/index.html  
 
-Stanford Machine Learning
-http://holehouse.org/mlclass/index.html
+Stanford Machine Learning  
+http://holehouse.org/mlclass/index.html  
 
-Deep Learning基礎講座演習コンテンツ 公開ページ
-https://weblab.t.u-tokyo.ac.jp/deep-learning%E5%9F%BA%E7%A4%8E%E8%AC%9B%E5%BA%A7%E6%BC%94%E7%BF%92%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84-%E5%85%AC%E9%96%8B%E3%83%9A%E3%83%BC%E3%82%B8/
+Deep Learning基礎講座演習コンテンツ 公開ページ  
+https://weblab.t.u-tokyo.ac.jp/deep-learning%E5%9F%BA%E7%A4%8E%E8%AC%9B%E5%BA%A7%E6%BC%94%E7%BF%92%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84-%E5%85%AC%E9%96%8B%E3%83%9A%E3%83%BC%E3%82%B8/  
 
 youtube easyarithmetican / atelier aterui 微積分2  
 youtube Able Programming  
