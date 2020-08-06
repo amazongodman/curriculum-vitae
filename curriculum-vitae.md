@@ -10,7 +10,7 @@ Qiita | [@Ringa_hyj](https://qiita.com/Ringa_hyj)
 Web Site | [大島飯店](https://sit-jhonny.hatenablog.com/)
 Twitter | [@Ringa_hyj](https://twitter.com/Ringa_hyj)
 Rpubs | [Ringa](http://rpubs.com/Ringa)
-Slides | [SD](https://speakerdeck.com/ringa_hyj)
+Slides | [SpeakerDeck](https://speakerdeck.com/ringa_hyj)
 Signate | [Signate](https://signate.jp/profile)
 kaggle | [kaggle](https://www.kaggle.com/hiroshihiroshi)
 connpass | [connpass](https://connpass.com/user/mf16069yoshimura/)
@@ -37,8 +37,9 @@ connpass | [connpass](https://connpass.com/user/mf16069yoshimura/)
 - haskell  
 
 
-## 取得資格  
+## 取得資格・受賞
 - 2020年3月 JDLA deep learning generalist 検定 (G検定)  
+- Qiita：パソナテック　機械学習アンチパターン特別賞  
 
 ## 職務経歴
 ### 2019/07 - 現在 株式会社Y 統計分析・機械学習エンジニア
