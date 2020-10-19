@@ -22,14 +22,15 @@ connpass | [connpass](https://connpass.com/user/mf16069yoshimura/)
 - R (Rstudio)  
 - SQL DB2 AS400  
 - VScode  
-- Power BI, Looker, tableau  
+- Power BI, tableau  
 - git  
-- Docker  
+
 
 勉強中
 - ruby  
 - C#  
 - Linax  
+- Docker  
 
 - kubanetess  
 - MATLAB/Simulink  
