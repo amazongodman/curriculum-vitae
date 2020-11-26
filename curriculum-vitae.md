@@ -27,22 +27,18 @@ connpass | [connpass](https://connpass.com/user/mf16069yoshimura/)
 
 
 勉強中
-- ruby  
-- C#  
 - Linax  
 - Docker  
-
 - kubanetess  
-- MATLAB/Simulink  
-- swift   
-- haskell  
 
 
 ## 取得資格・受賞・社外登壇
 - 2020年3月 JDLA deep learning generalist 検定 (G検定)  
 - 2020年 JDLA Deep Learning for ENGINEER(認定講座修了-)  
 - Qiita：パソナテック　機械学習アンチパターン特別賞  
-- 第6回 データアーキテクトを”前向きに”考える会(インテグリティ・ガバナンスについて発表)  
+- 第6回 データアーキテクトを”前向きに”考える会(データインテグリティ・ガバナンス)  
+- 第1回 統計学勉強会(確率分布)  
+
 
 ## 所属  
 - 人工知能学会  
@@ -66,8 +62,9 @@ connpass | [connpass](https://connpass.com/user/mf16069yoshimura/)
  - 工場の滞留・生産状況の見える化(webアプリ)  
  - autoMLツール導入  
  - メール文章担当者分類  
- - AIプラットフォーム(python開発のクラウド化)  
-   
+ 
+ 
+ 
 ・協力会社との機械学習システムの開発・検証  
 ・社内データをつかったAI(機械学習・深層学習)モデルの作成  
 ・工場自動化に関する活動  
