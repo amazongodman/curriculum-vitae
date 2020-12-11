@@ -38,6 +38,7 @@ connpass | [connpass](https://connpass.com/user/mf16069yoshimura/)
 - Qiita：パソナテック　機械学習アンチパターン特別賞  
 - 第6回 データアーキテクトを”前向きに”考える会(データインテグリティ・ガバナンス)  
 - 第1回 統計学勉強会(確率分布)  
+- 2020年度 Japan.R LT tidymodels機能紹介  
 
 
 ## 所属  
