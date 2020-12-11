@@ -22,7 +22,7 @@ connpass | [connpass](https://connpass.com/user/mf16069yoshimura/)
 - R (Rstudio)  
 - SQL DB2 AS400  
 - VScode  
-- Power BI, tableau  
+- Power BI, (tableau)  
 - git  
 
 
