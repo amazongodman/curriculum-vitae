@@ -343,6 +343,13 @@ cousera Deep Learning Specialization
     course4 Convolutional Neural Networks  
     course5 Sequence Models  
 
+
+cousera  Reinforcement Learning Specialization  
+    Fundamentals of Reinforcement Learning  
+    Sample-based Learning Methods  
+    Prediction and Control with Function Approximation  
+    A Complete Reinforcement Learning System (Capstone)  
+
 cousera Bayesian Statistics: From Concept to Data Analysis  
 
 cousera Bayesian Statistics: Techniques and Models  
