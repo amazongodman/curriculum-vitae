@@ -18,41 +18,36 @@ connpass | [connpass](https://connpass.com/user/mf16069yoshimura/)
 
 
 ## 使用技術
-- Python3, jupyter notebook(lab)  
+- Python3, jupyter notebook(lab), keras等  
 - R (Rstudio)  
 - SQL DB2 AS400  
 - VScode  
-- Power BI, (tableau)  
 - git  
-
-
-勉強中
-- Linax  
 - Docker  
-- kubanetess  
 
-
-## 取得資格・受賞・社外登壇
+## 取得資格
 - 2020年3月 JDLA deep learning generalist 検定 (G検定)  
 - 2020年 JDLA Deep Learning for ENGINEER(認定講座修了-)  
+- 2021年2月　統計検定2級
+
+## 受賞・登壇
 - Qiita：パソナテック　機械学習アンチパターン特別賞  
 - 第6回 データアーキテクトを”前向きに”考える会(データインテグリティ・ガバナンス)  
 - 第1回 統計学勉強会(確率分布)  
 - 2020年度 Japan.R LT tidymodels機能紹介  
-
 
 ## 所属  
 - 人工知能学会  
 - 日本統計学会  
 
 ## 職務経歴
-### 2019/07 - 現在 株式会社Y 統計分析・機械学習エンジニア
+### 2019/07 - 現在 株式会社Y 統計分析
 
 事業内容：F・建材・F加工機械等の製造・販売  
 資本金：119億9,000千円(2019)  
-売上高：7,600億円  
-従業員数：46,000名  
-所属部門：情報システム部門  (生産技術)
+売上高：7,600億円(単体988億)  
+従業員数：46,000名(国内 18000名／海外 28000名：単体5000名)  
+所属部門：情報システム部門(生産技術)  
 
 職務内容：  
  - ERPデータを使った業務改善のための分析とwebアプリの作成  
@@ -345,10 +340,10 @@ cousera Deep Learning Specialization
 
 
 cousera  Reinforcement Learning Specialization  
-    Fundamentals of Reinforcement Learning  
-    Sample-based Learning Methods  
-    Prediction and Control with Function Approximation  
-    A Complete Reinforcement Learning System (Capstone)  
+    course1 Fundamentals of Reinforcement Learning  
+    course2 Sample-based Learning Methods  
+    course3 Prediction and Control with Function Approximation  
+    course4 A Complete Reinforcement Learning System (Capstone)  
 
 cousera Bayesian Statistics: From Concept to Data Analysis  
 
