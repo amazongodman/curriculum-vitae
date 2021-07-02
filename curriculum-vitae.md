@@ -23,6 +23,7 @@ connpass | [connpass](https://connpass.com/user/mf16069yoshimura/)
 - R3.6 ~ 4.0 (Rstudio,tidyverse,tidymodels)  
 - SQL DB2 AS400  
 - Docker  
+- kaggle notebook expart
 
 
 
