@@ -1,4 +1,4 @@
-# 履歴書・職務経歴書 更新:2021-03-03
+# 履歴書・職務経歴書 更新:2021-07-01
 
 ## 自己紹介
 
@@ -20,49 +20,46 @@ connpass | [connpass](https://connpass.com/user/mf16069yoshimura/)
 
 ## 使用技術
 - Python3, jupyter notebook(lab), keras等  
-- R (Rstudio)  
+- R3.6 ~ 4.0 (Rstudio,tidyverse,tidymodels)  
 - SQL DB2 AS400  
 - Docker  
 
 
 
 ## 取得資格
-- 2020年3月 JDLA deep learning generalist 検定 (G検定)  
+- 2020年 JDLA deep learning generalist 検定 (G検定)  
 - 2020年 JDLA Deep Learning for ENGINEER(認定講座修了-)  
-- 2021年2月　統計検定2級
+- 2021年 統計検定2級  
 
 ## 受賞・登壇
 - Qiita：パソナテック　機械学習アンチパターン特別賞  
 - 第6回 データアーキテクトを”前向きに”考える会(データインテグリティ・ガバナンス)  
 - 第1回 統計学勉強会(確率分布)  
 - 2020年度 Japan.R LT tidymodels機能紹介  
-
+- udemy R言語によるデータサイエンス【データ操作, 最短習得コース】  
+ 
 ## 所属  
 - 人工知能学会  
 - 日本統計学会  
 
 ## 職務経歴
-### 2019/07 - 現在 株式会社Y 統計分析
+### 2019/07 - 現在 株式会社Y 統計分析  
 
 事業内容：F・建材・F加工機械等の製造・販売  
 資本金：119億9,000千円(2019)  
 売上高：7,600億円(単体988億)  
 従業員数：46,000名(国内 18000名／海外 28000名：単体5000名)  
-所属部門：情報システム部門(生産技術)  
+所属部門：情報システム部門  
 
 職務内容：  
  - ERPデータを使った業務改善のための分析とwebアプリの作成  
  - 工場の滞留・生産状況の見える化  
- - アパレル系の流行/需要予測(生産量最適化)  
-
- - 生産在庫の統計モデル化と生産量最適化シミュレーション  
+ - 需要予測(生産量決定支援)  
  - 機械部品の材料材質と修理コストの関係分析(生存・故障分析)  
- - 製品の画像検査と異常検知(検査自動化)  
- - 機械学習の社内人材の教育・勉強会  
- - 全社員向け情報セキュリティ教育  
-    
+ - 機械部品の振動信号から異常検知  
+ - 製品の画像検査のための異常検知      
 
-### 2018/04 - 2019/03 N株式会社 データ分析エンジニア
+### 2018/04 - 2019/03 N株式会社 データ分析エンジニア  
 
 事業内容：医薬品関連機器の製造販売、サービスの提供  
 資本金：75,000千円  
@@ -72,16 +69,15 @@ connpass | [connpass](https://connpass.com/user/mf16069yoshimura/)
 
 職務内容：  
 ・新製品の開発検証業務(実験計画法・分散分析・センシング・レポート作成)  
-・顧客データを使用した試験的な異常検知  
+・温度センサーを使用した機械性能低下の検知  
 ・開発時の実験データ発生から保存までのデータインテグリティ対応  
 
 ### 2012/04 - 2018/03 大学卒業・同大学院修了
 
 学部：生命科学科  
 修士：理工学研究科  
-研究：アルツハイマー型認知症治療薬に向けたビタミンK誘導体の合成研究  
-研究成果：二本の側鎖とその末端にフェニル基を導入した新規ビタミンK誘導体の合成(2016/06) ビタミン90巻4号197  
-
+研究：アルツハイマー型認知症治療薬に向けた誘導体の合成研究  
+研究成果：候補化合物・新規誘導体の合成(2016/06) ビタミン90巻4号197  
 
 ## 学習メモ
 ### 学習中
@@ -121,14 +117,8 @@ StanとRでベイズ統計モデリング　Wonderful R 2
 解析入門30講  
 圏論の基礎  
 メタ・アナリシス入門―エビデンスの統合をめざす統計手法  
-ITエンジニアのための機械学習理論入門  
+
 Pythonによるスクレイピング&機械学習 開発テクニック  
-
-
-
-作って分かるアンサンブル学習、アルゴリズム入門  
-
-カプラン・マイヤー法  
 
 人文・社会科学の統計学 (基礎統計学)  
 自然科学の統計学 (基礎統計学)  
@@ -137,13 +127,11 @@ Pythonによるスクレイピング&機械学習 開発テクニック
 解析入門 Ⅰ(基礎数学2)  
 解析入門 Ⅱ(基礎数学3)  
 
-
 プログラミングのための確率統計  
 プログラミングのための線形代数  
 
 数学の基礎―集合・数・位相 (基礎数学14)  
-これなら分かる最適化数学―基礎原理から計算手法まで  
-これなら分かる応用数学教室―最小二乗法からウェーブレットまで  
+
 
 統計学入門 (基礎統計学Ⅰ)  
 現代数理統計学の基礎　　
@@ -218,6 +206,9 @@ ITエンジニアのための機械学習理論入門
 ITエンジニアのための強化学習理論入門  
 強化学習(Richard S)  
 強化学習(MLP)  
+作って分かるアンサンブル学習、アルゴリズム入門  
+これなら分かる最適化数学―基礎原理から計算手法まで  
+これなら分かる応用数学教室―最小二乗法からウェーブレットまで  
 
 - カーネル法  
 カーネル多変量解析  
@@ -279,8 +270,13 @@ Tableauによる最強・最速のデータ可視化テクニック ～データ
 伝わるデータビジュアル術  
 
 
-
-
+- 信号処理  
+統計的信号処理　信号ノイズ推定を理解する  
+信号解析  信号処理とデータ分析の基礎  
+基本からわかる信号処理　講義ノート  
+ディジタル信号処理入門  
+ディジタルフィルタと信号処理  
+ 
 - データベース  
 ビッグデータ分析・活用のためのSQLレシピ  
 
@@ -318,7 +314,6 @@ codexa 統計入門（前編）
 codexa 統計入門（後編）  
 codexa 線形回帰 入門  
 
-
 cousera Advanced Machine Learning(National Research University Higher School of Economics)  
     course1 Introduction to Deep Learning  
     course2 How to Win a Data Science Competition: Learn from Top Kagglers  
@@ -327,37 +322,33 @@ cousera Advanced Machine Learning(National Research University Higher School of 
     course5 Deep Learning in Computer Vision  
     course6 Natural Language Processing  
     course7 Addressing Large Hadron Collider Challenges by Machine Learning  
-
 cousera IBM AI Engineering プロフェッショナル認定  
 cousera IBMデータサイエンスプロフェッショナル認定  
-
 cousera Machine learning  
-
 cousera Deep Learning Specialization  
     course1 Neural Networks and Deep Learning  
     course2 Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization  
     course3 Structuring Machine Learning Projects  
     course4 Convolutional Neural Networks  
     course5 Sequence Models  
-
-
 cousera  Reinforcement Learning Specialization  
     course1 Fundamentals of Reinforcement Learning  
     course2 Sample-based Learning Methods  
     course3 Prediction and Control with Function Approximation  
     course4 A Complete Reinforcement Learning System (Capstone)  
-
 cousera Bayesian Statistics: From Concept to Data Analysis  
-
 cousera Bayesian Statistics: Techniques and Models  
-
+cousera Tidyverse Skills for Data Science in R  
+    course1 Introduction to the Tidyverse  
+    course2 Importing Data in the Tidyverse  
+    course3 Wrangling Data in the Tidyverse  
+    course4 Visualizing Data in the Tidyverse  
+    course5 Modeling Data in the Tidyverse  
 
 Basic Modeling for Discrete Optimization  
 Advanced Modeling for Discrete Optimization  
 Advanced Linear Models for Data Science 1: Least Squares  
 Advanced Linear Models for Data Science 2: Statistical Linear Models  
-
-
 
 メディカルAI専門コース  
 https://japan-medical-ai.github.io/medical-ai-course-materials/index.html  
@@ -365,19 +356,20 @@ https://japan-medical-ai.github.io/medical-ai-course-materials/index.html
 Stanford Machine Learning  
 http://holehouse.org/mlclass/index.html  
 
-Deep Learning基礎講座演習コンテンツ 公開ページ  
-https://weblab.t.u-tokyo.ac.jp/deep-learning%E5%9F%BA%E7%A4%8E%E8%AC%9B%E5%BA%A7%E6%BC%94%E7%BF%92%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84-%E5%85%AC%E9%96%8B%E3%83%9A%E3%83%BC%E3%82%B8/  
+Deep Learning基礎講座演習コンテンツ [公開ページ](https://weblab.t.u-tokyo.ac.jp/deep-learning%E5%9F%BA%E7%A4%8E%E8%AC%9B%E5%BA%A7%E6%BC%94%E7%BF%92%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84-%E5%85%AC%E9%96%8B%E3%83%9A%E3%83%BC%E3%82%B8/)  
+  
 
-youtube easyarithmetican / atelier aterui 微積分2  
-youtube Able Programming  
+
 
 AVILEN E資格認定講座(線形代数・統計・機械学習・深層学習・python・pytorch)  
 
-
 ModernDIVE  
 Tidy Modeling with R  
-
-
+youtube StatQuest with Josh Starmer  
+youtube tidytuesday,tidymonday  
+youtube easyarithmetican / atelier aterui  
+youtube Able Programming  
+ 
 ```
 
 
