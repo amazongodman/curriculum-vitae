@@ -23,15 +23,13 @@ connpass | [connpass](https://connpass.com/user/mf16069yoshimura/)
 - R3.6 ~ 4.0 (Rstudio,tidyverse,tidymodels)  
 - SQL DB2 AS400  
 - Docker  
-- kaggle notebook expart
-
-
 
 ## 取得資格
 - 2020年 JDLA deep learning generalist 検定 (G検定)  
 - 2020年 JDLA Deep Learning for ENGINEER(認定講座修了-)  
 - 2021年 統計検定2級  
-
+- kaggle notebook expart
+ 
 ## 受賞・登壇
 - Qiita：パソナテック　機械学習アンチパターン特別賞  
 - 第6回 データアーキテクトを”前向きに”考える会(データインテグリティ・ガバナンス)  
