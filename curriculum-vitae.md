@@ -37,6 +37,7 @@ connpass | [connpass](https://connpass.com/user/mf16069yoshimura/)
 - 2020年度 Japan.R LT tidymodels機能紹介  
 - udemy R言語によるデータサイエンス【データ操作, 最短習得コース】  
 - udemy Dockerによるデータサイエンスのための環境構築  
+- axross 生産ラインを想定した画像異常検知の実践レシピ  
  
 ## 所属  
 - 人工知能学会  
