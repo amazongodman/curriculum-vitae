@@ -4,17 +4,18 @@
 
 key | value
 ------------- | -------------
-Name | <ruby><rb>苗字 名前<rb><rt>みょうじ なまえ</rt></ruby>
+Name | <ruby><rb>Ringa hyj<rb><rt>リンガ hyj</rt></ruby>
 Phone | 
 Mail | ringa.hyj[at]gmail.com
 Qiita | [@Ringa_hyj](https://qiita.com/Ringa_hyj)
-Web Site | [大島飯店](https://sit-jhonny.hatenablog.com/)
 Twitter | [@Ringa_hyj](https://twitter.com/Ringa_hyj)
-Rpubs | [Ringa](http://rpubs.com/Ringa)
 Slides | [SpeakerDeck](https://speakerdeck.com/ringa_hyj)
-Signate | [Signate](https://signate.jp/profile)
 kaggle | [kaggle](https://www.kaggle.com/hiroshihiroshi)
 connpass | [connpass](https://connpass.com/user/mf16069yoshimura/)
+Rpubs | [Ringa](http://rpubs.com/Ringa)
+Signate | 
+youtube | 
+Web Site | [大島飯店](https://sit-jhonny.hatenablog.com/)
 
 
 
