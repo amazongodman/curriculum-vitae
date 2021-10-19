@@ -36,7 +36,7 @@ Web Site | [大島飯店](https://sit-jhonny.hatenablog.com/)
 - 第6回 データアーキテクトを”前向きに”考える会(データインテグリティ・ガバナンス)  
 - 第1回 統計学勉強会(確率分布)  
 - 2020年度 Japan.R LT tidymodels機能紹介  
-- udemy R言語によるデータサイエンス【データ操作, 最短習得コース】  
+- udemy R言語によるデータサイエンス【データ操作, 最短習得コース, tidyverse】  
 - udemy Dockerによるデータサイエンスのための環境構築  
 - axross 生産ラインを想定した画像異常検知の実践レシピ  
  
