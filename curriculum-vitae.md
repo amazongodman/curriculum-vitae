@@ -21,7 +21,7 @@ Web Site | [大島飯店](https://sit-jhonny.hatenablog.com/)
 
 ## 使用技術
 - Python3, jupyter notebook(lab), keras等  
-- R3.6 ~ 4.0 (Rstudio,tidyverse,tidymodels)  
+- R3.6 ~ 4.1 (Rstudio,tidyverse,tidymodels)  
 - SQL DB2 AS400  
 - Docker  
 
