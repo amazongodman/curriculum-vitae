@@ -72,11 +72,13 @@ Web Site |
  ・2016/06 学会発表  
  ・Bioorganic & Medicinal Chemistry Letters 2020-30-8 筆頭著者  
 
-## 使用技術
+## 使用技術,ソフトウェア
 - Python3, pytorch, keras 等  
 - R3.6 ~ 4.1 (Rstudio,tidyverse,tidymodels)  
 - SQL DB2 AS400  
-- Docker  
+- Docker
+- Slack
+- Asana, Instagantt
 
 ## 出版・受賞・登壇
 - 技術評論社：Rユーザのためのtidymodels 実践入門〜モダンな統計・機械学習モデリングの世界(共著)  
